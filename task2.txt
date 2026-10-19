@@ -1,0 +1,11 @@
+Task 2: Git Workflow Practice
+
+Commands practiced:
+1. git clone - Copies a remote repository to the local system.
+2. git add - Stages changes for committing.
+3. git commit - Saves changes in the local repository history.
+4. git push - Uploads committed changes to GitHub.
+5. git pull - Downloads and integrates changes from GitHub.
+
+Result:
+Successfully practiced the basic Git workflow.
